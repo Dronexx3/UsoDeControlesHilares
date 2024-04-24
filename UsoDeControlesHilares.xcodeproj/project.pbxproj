@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65ABA5AB2BD9A4360030489A /* calcBasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65ABA5AA2BD9A4360030489A /* calcBasicViewController.swift */; };
 		F252825D2BD960100036F804 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F252825C2BD960100036F804 /* AppDelegate.swift */; };
 		F252825F2BD960100036F804 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F252825E2BD960100036F804 /* SceneDelegate.swift */; };
 		F25282612BD960100036F804 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25282602BD960100036F804 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65ABA5AA2BD9A4360030489A /* calcBasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calcBasicViewController.swift; sourceTree = "<group>"; };
 		F25282592BD960100036F804 /* UsoDeControlesHilares.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UsoDeControlesHilares.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F252825C2BD960100036F804 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F252825E2BD960100036F804 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				F252826A2BD960120036F804 /* Info.plist */,
 				F25282702BD9605B0036F804 /* FirstViewController.swift */,
 				F25282722BD9606A0036F804 /* SecondViewController.swift */,
+				65ABA5AA2BD9A4360030489A /* calcBasicViewController.swift */,
 			);
 			path = UsoDeControlesHilares;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				F25282612BD960100036F804 /* ViewController.swift in Sources */,
 				F252825D2BD960100036F804 /* AppDelegate.swift in Sources */,
+				65ABA5AB2BD9A4360030489A /* calcBasicViewController.swift in Sources */,
 				F252825F2BD960100036F804 /* SceneDelegate.swift in Sources */,
 				F25282732BD9606A0036F804 /* SecondViewController.swift in Sources */,
 				F25282712BD9605B0036F804 /* FirstViewController.swift in Sources */,
